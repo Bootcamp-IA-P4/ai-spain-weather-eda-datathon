@@ -1,0 +1,144 @@
+# Archivos específicos del proyecto
+.DS_Store
+*.ipynb_checkpoints/
+__pycache__/
+
+# Datos y archivos temporales
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.feather
+*.pkl
+*.tmp
+*.bak
+*.log
+
+# Entornos virtuales y configuraciones de Python
+venv/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.python-version
+# Archivos específicos del proyecto
+.DS_Store
+*.ipynb_checkpoints/
+__pycache__/
+
+# Datos y archivos temporales
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.feather
+*.pkl
+*.tmp
+*.bak
+*.log
+
+# Entornos virtuales y configuraciones de Python
+venv/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.python-version
+
+.venv/
+.env
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.python-version
+
+# Jupyter / IPython
+.ipynb_checkpoints
+*.ipynb.meta
+.nbgrader.log
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Paquetes de Python
+*.egg
+*.egg-info
+dist/
+build/
+*.pyc
+*.pyo
+__pycache__/
+pip-wheel-metadata/
+
+# Documentación y reportes
+docs/_build/
+*.pdf
+*.docx
+*.pptx
+
+# Misceláneo
+*.sqlite
+*.db
+*.cache
+.coverage
+*.cover
+*.mo
+*.pot
+# Jupyter / IPython
+.ipynb_checkpoints
+*.ipynb.meta
+.nbgrader.log
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Paquetes de Python
+*.egg
+*.egg-info
+dist/
+build/
+*.pyc
+*.pyo
+__pycache__/
+pip-wheel-metadata/
+
+# Documentación y reportes
+docs/_build/
+*.pdf
+*.docx
+*.pptx
+
+# Misceláneo
+*.sqlite
+*.db
+*.cache
+.coverage
+*.cover
+*.mo
+*.pot
