@@ -2,4 +2,8 @@
 name = "eda-datathon-04"
 version = "0.1.0"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ipykernel>=6.29.5",
+    "jupyterlab",
+    "pandas>=2.2.3",
+]
