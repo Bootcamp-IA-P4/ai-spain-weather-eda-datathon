@@ -108,6 +108,52 @@ El notebook principal (`spain_weather.ipynb`) contiene:
   numpy>=1.21.0
   ```
 
+---
+
+## Grafos
+
+Se presentan algunas de las visualizaciones generadas a partir del análisis exploratorio de los datos:
+
+### Distribución de registros por ciudad
+![Distribución de registros por ciudad](imgs/city-records-number.png)  
+*El gráfico muestra la cantidad de registros disponibles para cada ciudad, destacando Madrid como la ciudad con mayor representación en el dataset.*
+
+### Condiciones meteorológicas por hora del día
+![Condiciones meteorológicas por hora](imgs/day-hour-weather-conditions.png)  
+*Visualización que relaciona las condiciones climáticas (como lluvia, niebla o cielos despejados) con las diferentes horas del día.*
+
+### Temperatura promedio diaria a lo largo del tiempo
+![Temperatura promedio diaria](imgs/dayly-avg-temp-distribution.png)  
+*Evolución de las temperaturas promedio desde 2015 hasta 2019, mostrando patrones estacionales claros.*
+
+### Registros por día
+![Registros por día](imgs/day-records.png)  
+*Distribución temporal de los registros disponibles, mostrando la cobertura temporal del dataset.*
+
+### Frecuencia de condiciones meteorológicas
+![Frecuencia de condiciones climáticas](imgs/freq-weather-conditions.png)  
+*Análisis de la prevalencia de diferentes condiciones climáticas en el conjunto de datos, siendo "clear" (despejado) la más común.*
+
+### Humedad y temperatura promedio por hora
+![Humedad y temperatura por hora](imgs/hour-humidity-avg.png)  
+*Relación entre la hora del día y los valores promedio de humedad y temperatura.*
+
+### Distribución horaria de registros
+![Distribución horaria](imgs/hourly_distribution.png)  
+*Concentración de registros según la hora del día, mostrando mayor actividad durante las horas diurnas.*
+
+### Temperatura promedio por hora
+![Temperatura por hora](imgs/hour-temp-avg.png)  
+*Variación de la temperatura a lo largo de las diferentes horas del día.*
+
+### Distribución de humedad y presión
+![Humedad y presión](imgs/humidity.png)  
+*Histogramas que muestran la distribución de los valores de humedad y presión atmosférica en los datos.*
+
+---
+
+
+
 ## 📄 Licencia
 
 Este proyecto está bajo licencia [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html).
